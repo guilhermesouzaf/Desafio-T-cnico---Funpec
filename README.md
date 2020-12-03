@@ -1,9 +1,17 @@
 # Desafio_Técnico_Funpec
 
+# Índice
 
-🔖 Sobre
+- [Índice](#índice)
+  - [:bookmark: Sobre](#bookmark-sobre)
+  - [:rocket: Tecnologias Utilizadas](#rocket-tecnologias-utilizadas)
+  - [:fire: Como usar](#fire-como-usar)
 
-O desafio técnico faz parte do processo seletivo 10/2020 da Fundação Norte-Rio-Grandense de Pesquisa e Cultura.
+<a id="sobre"></a>
+
+## :bookmark: Sobre
+
+O <strong>Desafio Técnico</strong> faz parte do processo seletivo 10/2020 da Fundação Norte-Rio-Grandense de Pesquisa e Cultura.
 
 No desafio foi proposto o desenvolvimento de um script de teste utlizando-se o framework Robot que realizasse a automatização dos seguintes passos:
 
@@ -15,45 +23,47 @@ No desafio foi proposto o desenvolvimento de um script de teste utlizando-se o f
 6. verificar se é mostrada a página esperada;
 7. fechar o navegador.
 
+<a id="documentacao"></a>
 
-🚀 Tecnologias Utilizadas
+## :rocket: Tecnologias Utilizadas
+
 O projeto foi desenvolvido utilizando as seguintes tecnologias
 
-RobotFramework
-
-Selenium
-
-Python
+- [RobotFramework](https://robotframework.org/)
+- [SeleniumLibrary](https://robotframework.org/SeleniumLibrary/SeleniumLibrary.html)
+- [Python](https://www.python.org/)
 
 
-🔥 Como usar
+## :fire: Como usar
 
-Pré-requisitos
-É necessário possuir o Python instalado na máquina
-Também, é preciso ter o RobotFramework.
-Por fim, é essencial ter a livraria SeleniumLibrary.
+- ### **Pré-requisitos**
 
-Relizar instalação e Download do Python:
+  - É **necessário** possuir o **[Python](https://www.python.org/)** instalado na máquina
+  - Também, é **preciso** ter o **[RobotFramework](https://robotframework.org/)**.
+  - Por fim, é **essencial** ter a **[SeleniumLibrary](https://robotframework.org/SeleniumLibrary/SeleniumLibrary.html)**.
 
-  Pode ser realizado o download através do site https://www.python.org/downloads/
-   
-  
-<h4> Faça um clone : </h4>
-  
+1. Faça um clone :
+
+```sh
   $ git clone https://github.com/guilhermesouzaf/Desafio_Tecnico_Funpec
+```
 
-<h4> Executando a Aplicação: </h4>
- 
-<h4> # Instale as dependências </h4>
+2. Executando a Aplicação:
+
+```sh
+  
+ # Instale as dependências
  
   $ pip install robotframework
 
   $ pip install --upgrade robotframework-seleniumlibrary
 
-<h4> # Inicie a Aplicação </h4>
+# Inicie a Aplicação </h4>
   
   $ cd Desafio_Tecnico_Funpec
   
   $ robot DesafioTecnico01.robot
-  
+
+ 
+```
 
