@@ -10,7 +10,7 @@ ${TEXTO_PESQUISA}         robot framework
 ${SUBMIT_BUTTON}          xpath=//*[@class='FPdoLc tfB0Bf']/center/input
 ${MENSAGEM_VERIFICADA}    Aproximadamente
 ${ACESSAR_RESULTADO}      xpath=//*[@class='GyAeWb']/div/div/div[2]/div/div/div/div[3]/div/div
-${VERIFICAR_PAGINA}       Automatizando dois cenários de teste para web com Robot Framework e SeleniumLibrary
+${VERIFICAR_PAGINA}       Robot Framework
 
 *** Test Cases ***
 
