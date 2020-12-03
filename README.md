@@ -38,23 +38,22 @@ Relizar instalação e Download do Python:
   Pode ser realizado o download através do site https://www.python.org/downloads/
    
   
-Faça um clone :
+<h4> Faça um clone : </h4>
   
   $ git clone https://github.com/guilhermesouzaf/Desafio_Tecnico_Funpec
 
-Executando a Aplicação:
+<h4> Executando a Aplicação: </h4>
  
- # Instale as dependências
+<h4> # Instale as dependências </h4>
+ 
+  $ pip install robotframework
 
- $ pip install robotframework
+  $ pip install --upgrade robotframework-seleniumlibrary
 
- $ pip install --upgrade robotframework-seleniumlibrary
-
-  ##<h2> Acesse o diretório </h2>
+<h4> # Inicie a Aplicação </h4>
+  
   $ cd Desafio_Tecnico_Funpec
-
-  # Inicie a Aplicação
-  $ cd Desafio_Tecnico_Funpec
+  
   $ robot DesafioTecnico01.robot
   
 
