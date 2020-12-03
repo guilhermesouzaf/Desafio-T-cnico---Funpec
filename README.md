@@ -63,7 +63,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 3. Executando a Aplicação:
 
 ```sh  
-# Inicie a Aplicação </h4>
+# Inicie a Aplicação
   
   $ cd Desafio_Tecnico_Funpec
   
