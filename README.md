@@ -1,6 +1,7 @@
-# Desafio-T-cnico---Funpec
+# Desafio_Técnico_Funpec
 
 Índice
+
 Índice
 🔖 Sobre
 🚀 Tecnologias Utilizadas
@@ -29,6 +30,7 @@ Python
 
 
 🔥 Como usar
+
 Pré-requisitos
 É necessário possuir o Python instalado na máquina
 Também, é preciso ter o RobotFramework.
