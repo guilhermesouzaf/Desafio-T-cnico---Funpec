@@ -33,38 +33,28 @@ Pré-requisitos
 Também, é preciso ter o RobotFramework.
 Por fim, é essencial ter a livraria SeleniumLibrary.
 
-Instale o python:
+Relizar instalação e Download do Python:
 
   Pode ser realizado o download através do site https://www.python.org/downloads/
-  
-Instale o robot framework:
-
-  $ pip install robotframework
-
-Instale a SeleniumLibrary:
-
-  $ pip install --upgrade robotframework-seleniumlibrary
+   
   
 Faça um clone :
-  $ git clone https://github.com/vitorserrano/ecoleta.git
+  
+  $ git clone https://github.com/guilhermesouzaf/Desafio_Tecnico_Funpec
+
 Executando a Aplicação:
-  # Instale as dependências
-  $ npm install
+ 
+ # Instale as dependências
 
-  ##<h2> Crie o banco de dados </h2>
-  $ cd server
+ $ pip install robotframework
+
+ $ pip install --upgrade robotframework-seleniumlibrary
+
+  ##<h2> Acesse o diretório </h2>
+  $ cd Desafio_Tecnico_Funpec
+
+  # Inicie a Aplicação
+  $ cd Desafio_Tecnico_Funpec
+  $ robot DesafioTecnico01.robot
   
-  $ npm run knex:migrate
-  
-  $ npm run knex:seed
 
-  # Inicie a API
-  $ npm run dev
-
-  # Inicie a aplicação web
-  $ cd web
-  $ npm start
-
-  # Inicie a aplicação mobile
-  $ cd mobile
-  $ npm start
