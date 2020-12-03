@@ -1,13 +1,5 @@
 # Desafio_Técnico_Funpec
 
-Índice
-
-Índice
-
-🔖 Sobre
-
-🚀 Tecnologias Utilizadas
-🔥 Como usar
 
 🔖 Sobre
 
@@ -38,6 +30,16 @@ Pré-requisitos
 É necessário possuir o Python instalado na máquina
 Também, é preciso ter o RobotFramework.
 Por fim, é essencial ter a livraria SeleniumLibrary.
+
+Instale o python:
+  Pode ser realizado o download através do site https://www.python.org/downloads/
+  
+Instale o robot framework:
+  $ pip install robotframework
+
+Instale a SeleniumLibrary:
+  $ pip install --upgrade robotframework-seleniumlibrary
+  
 Faça um clone :
   $ git clone https://github.com/vitorserrano/ecoleta.git
 Executando a Aplicação:
