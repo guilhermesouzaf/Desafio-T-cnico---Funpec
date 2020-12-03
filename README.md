@@ -62,14 +62,12 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 3. Executando a Aplicação:
 
-```sh
-  
+```sh  
 # Inicie a Aplicação </h4>
   
   $ cd Desafio_Tecnico_Funpec
   
   $ robot DesafioTecnico01.robot
-
  
 ```
 
