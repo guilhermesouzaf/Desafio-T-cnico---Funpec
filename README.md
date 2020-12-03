@@ -51,9 +51,11 @@ Executando a Aplicação:
   # Instale as dependências
   $ npm install
 
-  ## Crie o banco de dados
+  ##<h2> Crie o banco de dados </h2>
   $ cd server
+  
   $ npm run knex:migrate
+  
   $ npm run knex:seed
 
   # Inicie a API
