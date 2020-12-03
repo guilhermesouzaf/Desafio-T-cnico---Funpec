@@ -46,12 +46,13 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
  - Como primeiro passo é o download e instalação do **[Python](https://www.python.org/)**
 
+```sh
 # Instale as dependências
  
   $ pip install robotframework
 
   $ pip install --upgrade robotframework-seleniumlibrary
-
+```
 
 2. Faça um clone :
 
