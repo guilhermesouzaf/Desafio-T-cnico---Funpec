@@ -20,7 +20,9 @@ No desafio foi proposto o desenvolvimento de um script de teste utlizando-se o f
 O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 RobotFramework
+
 Selenium
+
 Python
 
 
@@ -32,12 +34,15 @@ Também, é preciso ter o RobotFramework.
 Por fim, é essencial ter a livraria SeleniumLibrary.
 
 Instale o python:
+
   Pode ser realizado o download através do site https://www.python.org/downloads/
   
 Instale o robot framework:
+
   $ pip install robotframework
 
 Instale a SeleniumLibrary:
+
   $ pip install --upgrade robotframework-seleniumlibrary
   
 Faça um clone :
