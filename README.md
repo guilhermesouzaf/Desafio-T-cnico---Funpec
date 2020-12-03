@@ -42,22 +42,27 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
   - Também, é **preciso** ter o **[RobotFramework](https://robotframework.org/)**.
   - Por fim, é **essencial** ter a **[SeleniumLibrary](https://robotframework.org/SeleniumLibrary/SeleniumLibrary.html)**.
 
-1. Faça um clone :
+1. Instalação :
 
-```sh
-  $ git clone https://github.com/guilhermesouzaf/Desafio_Tecnico_Funpec
-```
+ - Como primeiro passo é o download e instalação do **[Python](https://www.python.org/)**
 
-2. Executando a Aplicação:
-
-```sh
-  
- # Instale as dependências
+# Instale as dependências
  
   $ pip install robotframework
 
   $ pip install --upgrade robotframework-seleniumlibrary
 
+
+2. Faça um clone :
+
+```sh
+  $ git clone https://github.com/guilhermesouzaf/Desafio_Tecnico_Funpec
+```
+
+3. Executando a Aplicação:
+
+```sh
+  
 # Inicie a Aplicação </h4>
   
   $ cd Desafio_Tecnico_Funpec
