@@ -3,11 +3,14 @@
 Índice
 
 Índice
+
 🔖 Sobre
+
 🚀 Tecnologias Utilizadas
 🔥 Como usar
 
 🔖 Sobre
+
 O desafio técnico faz parte do processo seletivo 10/2020 da Fundação Norte-Rio-Grandense de Pesquisa e Cultura.
 
 No desafio foi proposto o desenvolvimento de um script de teste utlizando-se o framework Robot que realizasse a automatização dos seguintes passos:
